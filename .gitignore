@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+target
+mqtt_broker/mysql_data
+mqtt_broker/mosquitto/data/
+mqtt_broker/mosquitto/log
+mqtt_broker/redis_data
+
